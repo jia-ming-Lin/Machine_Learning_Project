@@ -1,7 +1,7 @@
 # Project01
 This project is for solving handwritting recognition problem. 
 # DataSet
-Handwritting Data provided by professor and Emnist.
+Handwritting Data provided by professor's DataBase and Emnist.
 # Requirement 
 We use anaconda and jupter to design our project01 code.
 
@@ -14,6 +14,9 @@ The version of package used in this project is in the following.
 (3)OpenCV 3.4.2
 
 (4)scikit-learn 0.14.0
+
+# Theory
+
 
 # How to use it
 In test.py, the default trainning dataset is called "Project01_Train_Dataset.npy" and it will be used as training dataset in the   model_generate function. If you want to change dataset for trainning, you need to chnage the path in it. 
